@@ -1,0 +1,19 @@
+{	
+    "name": "sviluppowebavanzato/fattura_rest_php_server",
+    "authors": [
+        {
+            "name": "Giuseppe Della Penna",
+            "email": "giuseppe.dellapenna@univaq.it"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "slim/slim": "^3.7",
+        "monolog/monolog": "^1.17"
+    },
+    "autoload": {
+        "psr-4": {
+            "dellapenna\\restful\\examples\\": "src/restful/"           
+        }
+    }
+}
