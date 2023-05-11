@@ -1,4 +1,4 @@
-# FatturaREST_PHP
+# PHP_Example_Fattura
 > Example RESTful API "Fattura" (Invoice) developed with PHP7 and the Slim Framework
 
  This is the full implementation of the "Fattura" (invoice) RESTful API developed during the course lectures. It shows how to model the service in PHP using the minimal Slim framework.
